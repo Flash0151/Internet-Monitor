@@ -282,3 +282,5 @@ Now go forth and BLOCK THAT WINDOWS DATA!
 Made with ❤️ and 😡 at Microsoft's data habits
 
 P.S. If you work at Microsoft: This is a joke. We love you. Please stop eating our data. 😘
+
+P.S. agin sry if this was cringe mb :(
