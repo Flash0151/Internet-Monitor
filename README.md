@@ -100,7 +100,7 @@ Want to modify the code? See the developer section below!
 
 ### The Secret Sauce:
 
-```python
+
 # 1. We spy on EVERY process (shhh, don't tell Windows)
 processes = "Give me all your internet users!" 
 
