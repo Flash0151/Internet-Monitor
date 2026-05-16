@@ -1,31 +1,100 @@
-# 🌐 Internet Monitor - Because Windows is a Data Thief! 🕵️
+# 🌐 Internet Monitor - Stop Windows from Eating Your Data!
 
-[![Windows](https://img.shields.io/badge/Fights-Windows%20Data%20Theft-blue)]()
-[![Python](https://img.shields.io/badge/Python-3.7%2B-yellow)]()
-[![License](https://img.shields.io/badge/License-MIT-green)]()
-[![Mood](https://img.shields.io/badge/Mood-Hungry%20for%20Data%20Justice-red)]()
-
-## 🎭 The Drama
-
-**Windows:** "Hey, you have internet? Let me just quietly download 5GB of updates, sync OneDrive (that you never use), update the Store (that you forgot existed), send telemetry about your cat pictures, and oh - Xbox services need updating too even though you don't own an Xbox!"
-
-**You:** "I have 10GB for the whole month..."
-
-**Windows:** "WAS THAT A CHALLENGE?!" *downloads aggressively*
-
-**This App:** "NOT TODAY, MICROSOFT!" 🛑
+**One-click app that shows what's using your internet and blocks Windows from wasting it!**
 
 ---
 
-## 🦸‍♂️ What This Hero Does
+## 📥 For Normal Users (Just Want the App)
 
-- 👀 **Watches Windows like a hawk** - Every process, every connection
-- 🚨 **Screams when data limit hit** - "HEY! Windows ate 100MB!"
-- 🔨 **BONKS Windows** - One click and BAM! No more Microsoft internet!
-- 🟢 **Spares the innocent** - Chrome? Safe. Games? Safe. Discord? Safe.
-- 🔴 **Marks the guilty** - Red for Microsoft (booo!), Green for your apps (yaaay!)
+### Download & Run:
+1. Go to the `dist` folder above 👆
+2. Download **InternetMonitor.exe**
+3. **Right-click → Run as Administrator**
+4. App opens - you're protected!
+
+**That's it! No Python, no coding, no installation needed!**
+
+### Video Guide (If confused):
+1. Click `dist` folder
+2. Click `InternetMonitor.exe`
+3. Click "Download" button (or "View raw")
+4. Right-click downloaded file → Run as Administrator
 
 ---
+
+## 🎯 What This Does (For Everyone)
+
+Windows secretly eats your internet! This app:
+- 📊 **Shows EVERY process** using your internet
+- 🔴 **Red** = Microsoft (data thieves!)
+- 🟢 **Green** = Your apps (safe)
+- ⚠️ **Warns you** when Microsoft uses too much data
+- 🛑 **Blocks ALL Microsoft** with ONE CLICK
+- ✅ **Your apps still work** - Chrome, games, Discord, etc.
+
+---
+
+## 🖥️ How to Use (Normal Users)
+
+1. **Run as Administrator** (right-click EXE)
+2. Watch the process list
+3. Set your limit (100 MB recommended)
+4. Click **BLOCK** when Microsoft eats too much
+5. Minimize to tray - runs in background
+
+---
+
+## 💡 Best Settings for Limited Internet
+
+| Your Internet | Set Limit |
+|--------------|-----------|
+| Mobile Hotspot | 50-100 MB |
+| Limited DSL | 200-500 MB |
+| Pay-per-GB | 50-100 MB |
+
+---
+
+## ❓ Quick FAQ (Normal Users)
+
+**"Will this break my computer?"**
+No! Only blocks Microsoft. Everything else works.
+
+**"Can I still update Windows?"**
+Yes! Click UNBLOCK, update, then BLOCK again.
+
+**"Why Run as Administrator?"**
+Needed to block Microsoft. Without it, only monitoring works.
+
+**"Is it a virus?"**
+No! It's open-source. You can see all the code above.
+
+---
+
+## 🛑 What Gets Blocked
+
+- Windows Update (biggest data eater!)
+- Microsoft Store (updates apps you never use)
+- OneDrive (even if you never opened it)
+- Xbox services (even on non-gaming PCs)
+- Telemetry (Microsoft spying)
+- Office updates
+
+**Still Working:** Chrome, Firefox, games, Discord, Spotify, everything else!
+
+---
+
+## 📝 Need Help?
+
+If the app won't open:
+- Right-click → Run as Administrator
+- Temporarily disable antivirus
+- Move to a short folder path (like C:\Monitor\)
+
+---
+
+## 👨‍💻 For Developers (Scroll Down)
+
+Want to modify the code? See the developer section below!
 
 ## 🏗️ For Developers: How This Magic Works
 
